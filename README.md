@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @novabitdev
+- 👀 I’m interested in Python, Django, React, Solidity
+- 📫 How to reach me:  info at novabit dot dev
